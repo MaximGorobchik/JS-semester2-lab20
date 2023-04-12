@@ -1,0 +1,25 @@
+.App, .Task {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 700;
+    font-size: 15px;
+    flex-direction: column;
+}
+.Task5 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 700;
+    font-size: 15px;
+    flex-direction: row;
+}
+.txtarea{
+    resize:none;
+    height: 100px;
+    width:280px;
+}
+.selectMargin
+{
+    margin-top:20px;
+}
